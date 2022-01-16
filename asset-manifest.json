@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sranegar/expense-app.git/static/css/main.023c0f8d.css",
-    "main.js": "/sranegar/expense-app.git/static/js/main.2c6312c7.js",
-    "static/js/787.63951f47.chunk.js": "/sranegar/expense-app.git/static/js/787.63951f47.chunk.js",
-    "index.html": "/sranegar/expense-app.git/index.html",
-    "main.023c0f8d.css.map": "/sranegar/expense-app.git/static/css/main.023c0f8d.css.map",
-    "main.2c6312c7.js.map": "/sranegar/expense-app.git/static/js/main.2c6312c7.js.map",
-    "787.63951f47.chunk.js.map": "/sranegar/expense-app.git/static/js/787.63951f47.chunk.js.map"
+    "main.css": "/expense-app/static/css/main.023c0f8d.css",
+    "main.js": "/expense-app/static/js/main.f08cebdb.js",
+    "static/js/787.63951f47.chunk.js": "/expense-app/static/js/787.63951f47.chunk.js",
+    "index.html": "/expense-app/index.html",
+    "main.023c0f8d.css.map": "/expense-app/static/css/main.023c0f8d.css.map",
+    "main.f08cebdb.js.map": "/expense-app/static/js/main.f08cebdb.js.map",
+    "787.63951f47.chunk.js.map": "/expense-app/static/js/787.63951f47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.023c0f8d.css",
-    "static/js/main.2c6312c7.js"
+    "static/js/main.f08cebdb.js"
   ]
 }
